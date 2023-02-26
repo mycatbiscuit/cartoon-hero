@@ -27,7 +27,6 @@ header img{
 main{
     padding: 20px;
     background-color: black;
-    text-align: center;
 }
 
 main img{
@@ -41,11 +40,13 @@ h2{
 }
 
 p{
+    margin: 35px;
     font-size: 20px;
     color: white;
 }
 
 a{
+    margin: 35px;
     color: springgreen;
     background-color: black;
     font-size: 25px;
