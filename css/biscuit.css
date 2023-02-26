@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    background-color: black;
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+header h1{
+    color: khaki;
+    font-size: 50px;
+    background-color: black;
+}
+
+header img{
+    border-radius: 300px;
+    width: 300px;
+    border: 7px solid khaki;
+    background-color: black;
+}
+
+main{
+    padding: 20px;
+    background-color: black;
+    text-align: center;
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    font-size: 35px;
+    color: gold;
+    background-color: black;
+}
+
+p{
+    font-size: 20px;
+    color: white;
+}
+
+a{
+    color: springgreen;
+    background-color: black;
+    font-size: 25px;
+}
+
+a:hover{
+    background-color: whitesmoke;
+    color: midnightblue;
+}
+
+footer{
+    padding: 5px;
+    background-color: grey;
+    text-align: center;
+}
